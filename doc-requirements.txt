@@ -1,4 +1,6 @@
 sphinx
-ipython
+i deleted one
 numpydoc
 matplotlib==2.2.3
+
+some more requirements
