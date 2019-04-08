@@ -6,6 +6,8 @@ This is the main directory for the documentation for the `quantecon` python libr
 
 The documentation requires a few dependencies beyond those necessary for the quantecon library. These dependencies are (warning, this may be an incomplete list):
 
+The list maybe incomplete!
+
 * sphinx
 * numpydoc
 * sphinx_rtd_theme
